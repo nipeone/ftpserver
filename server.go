@@ -9,7 +9,7 @@ import (
 )
 
 func Version() string {
-	return "0.2.1104"
+	return "0.2.1105"
 }
 
 // serverOpts contains parameters for server.NewServer()
